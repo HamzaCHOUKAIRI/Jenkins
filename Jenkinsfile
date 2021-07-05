@@ -5,7 +5,7 @@ node {
 stage('Build') {
   sh 'javac Main.java'
 }
-stage('Rune') {
+stage('Run') {
 sh 'java Main'
 }
 }
