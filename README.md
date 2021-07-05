@@ -1,2 +1,2 @@
 # Jenkins
-Repo de test
+Depot de test public
